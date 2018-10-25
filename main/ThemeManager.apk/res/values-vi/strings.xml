@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="component_title_settings_video_wallpaper">Hình nền với hiệu ứng</string>
     <string name="common_google_play_services_enable_button">Bật</string>
     <string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
     <string name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
@@ -508,6 +509,9 @@
     <string name="theme_current_using_has_update">Có cập nhật chủ đề</string>
     <string name="theme_description_title_customized">Tùy chỉnh</string>
     <string name="theme_description_title_default">Mặc định</string>
+    <string name="theme_detail_tab_comment">Bình luận</string>
+  <string name="theme_detail_tab_recommend">Lời Khuyên</string>
+  <string name="theme_detail_tab_theme">Chủ </string>
     <string name="theme_empty_redirect">Quay lại Chủ đề</string>
     <string name="theme_favorite_add_fail">Không thể thêm vào yêu thích</string>
     <string name="theme_favorite_add_success">Đã thêm vào yêu thích</string>
