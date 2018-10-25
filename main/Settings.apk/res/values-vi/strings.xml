@@ -944,6 +944,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
     <string name="calls_title">Cuộc gọi</string>
     <string name="camera_double_tap_power_gesture_desc">Mở nhanh máy ảnh mà không cần mở khóa màn hình của bạn</string>
     <string name="camera_double_tap_power_gesture_title">Nhấn nút nguồn hai lần để mở máy ảnh</string>
+     <string name="camera_front">Trước %s</string>
     <string name="camera_gesture_desc">Mở ứng dụng camera bằng cách vặn cổ tay hai lần</string>
     <string name="camera_gesture_title">Xoắn đúp cho camera</string>
     <string name="camera_key_action_app_title">Mở ứng dụng</string>
@@ -958,6 +959,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
     <string name="camera_key_action_shortcut_wake">Khóa thiết bị</string>
     <string name="camera_key_action_title">Phím Mi</string>
     <string name="camera_key_action_toggle_title">Kích hoạt phím nhanh</string>
+    <string name="camera_rear">Phía sau %s</string>
     <string name="cancel">Hủy</string>
     <string name="cancel_action">Hủy</string>
     <string name="cancel_alert">Hủy các thay đổi của bạn?</string>
@@ -1394,6 +1396,7 @@ Do việc sử dụng dữ liệu được điện thoại của bạn tính và
     <string name="device_available_memory">Lưu trữ khả dụng</string>
     <string name="device_battery">Pin</string>
     <string name="device_build_id">Số phiên bản</string>
+    <string name="device_camera">Máy </string>
     <string name="device_cellular_network">Quét mạng di động</string>
     <string name="device_complete_parameters">Tất cả thông số</string>
     <string name="device_cpu10_info">Mười nhân</string>
@@ -4285,6 +4288,7 @@ Có thể mã PIN không đúng."</string>
     <string name="status_bar_settings_show_keyguard_notification_summary">Cho phép thông báo quan trọng trên Màn hình khóa</string>
     <string name="status_bar_settings_show_network_speed">Hiển thị tốc độ kết nối</string>
     <string name="status_bar_settings_show_notification_icon">Hiển thị biểu tượng thông báo</string>
+    <string name="status_bar_settings_peek_notification_icon">B biểu tượng thông báo</string>
     <string name="status_bar_settings_show_wifi_name">Hiển thị Wi-Fi</string>
     <string name="status_bar_settings_status_bar">Thanh trạng thái</string>
     <string name="status_bar_settings_style">Thông báo &amp; bố cục phím nhanh</string>
