@@ -174,6 +174,10 @@
     <string name="timer_alarm_cancel_pad">Chạm vào màn hình để tắt báo thức</string>
     <string name="timer_alarm_dot_matrix_label">HẸN GIỜ</string>
     <string name="timer_alert_alert_silenced">Hẹn giờ im lặng sau %d phút.</string>
+      <string name="timer_alert_mute_off">Báo thức sẽ kêu khi bộ hẹn giờ dừng</string>
+  <string name="timer_alert_mute_on">"Báo thức sẽ không kêu khi bộ hẹn giờ dừng"</string>
+  <string name="timer_alert_mute_remind">Nhấn để tắt báo thức</string>
+  <string name="timer_alert_mute_switch">Chuyển sang báo thức hẹn giờ tắt tiếng</string>
     <string name="timer_alert_type_beach">Biển</string>
     <string name="timer_alert_type_forest">Tiếng rừng</string>
     <string name="timer_alert_type_mute">Mặc định</string>
