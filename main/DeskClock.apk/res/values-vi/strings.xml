@@ -204,6 +204,11 @@
     <string name="timer_new_item">Thêm hẹn giờ</string>
     <string name="timer_notify_text">Báo lại sau hoặc bỏ hẹn giờ.</string>
     <string name="timer_pause_timer">Tạm dừng hẹn giờ</string>
+	<string name="time_picker_label_hour">Giờ</string>
+    <string name="time_picker_label_minute">Phút</string>
+    <string name="time_picker_label_second">Giây</string>
+    <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_running">Hẹn giờ đang chạy</string>
     <string name="timer_start_alarm">Hết giờ!</string>
     <string name="timer_start_timer">Bắt đầu hẹn giờ</string>
@@ -229,4 +234,5 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">Giờ</string>
     <string name="worldcolock_timezone_local">Như giờ địa phương</string>
+	
 </resources>

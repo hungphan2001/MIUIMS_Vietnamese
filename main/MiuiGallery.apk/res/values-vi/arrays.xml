@@ -4,6 +4,22 @@
         <item>Trai</item>
         <item>Gái</item>
     </string-array>
+	 <string-array name="chinese_holiday_last_year">
+        <item>"Đêm Giao thừa cuối cùng "</item>
+        <item>Năm mới của âm lịch</item>
+        <item>Lễ Hội Đèn Lồng</item>
+        <item>Lễ hội thuyền rồng</item>
+        <item>Lễ hội Qixi trước</item>
+        <item>Lễ hộ trung thu trước</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Chinese New Year's Eve through the years"</item>
+        <item>Chinese New Year through the years</item>
+        <item>Lantern Festival through the years</item>
+        <item>Dragon Boat Festival through the years</item>
+        <item>Qixi Festival through the years</item>
+        <item>Mid-Autumn Festival through the years</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Cha</item>
         <item>Mẹ</item>
@@ -11,6 +27,63 @@
         <item>Bà nội</item>
         <item>Ông ngoại</item>
         <item>Bà ngoại</item>
+    </string-array>
+	 <string-array name="month_last_year">
+        <item>Tháng Một trước</item>
+        <item>Tháng Hai trước</item>
+        <item>Tháng Ba trước</item>
+        <item>Tháng Tư trước</item>
+        <item>Tháng Năm trước</item>
+        <item>Tháng Sáu trước</item>
+        <item>Tháng Bảy trước</item>
+        <item>Tháng Tám trước</item>
+        <item>Tháng Chín trước</item>
+        <item>Tháng Mười trước</item>
+        <item>Tháng Mười một trước</item>
+        <item>Tháng Mười hai trước</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Mùa Xuân trước</item>
+        <item>Mùa Hạ trước</item>
+        <item>Mùa Thu trước</item>
+        <item>Mùa Đông trước</item>
+    </string-array>
+    <string-array name="season_past_year">
+        <item>Kỷ niệm mùa xuân</item>
+        <item>Kỷ niệm mùa hạ</item>
+        <item>Kỷ niệm mùa thu</item>
+        <item>Kỷ niệm mùa đông</item>
+    </string-array>
+    <string-array name="season_recap">
+        <item>Spring recap</item>
+        <item>Summer recap</item>
+        <item>Autumn recap</item>
+        <item>Winter recap</item>
+    </string-array>
+    <string-array name="baby_sexy_value">
+        <item>nam giới</item>
+        <item>nữ giới</item>
+    </string-array>
+    <integer-array name="backup_pause_hours">
+        <item>2</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="owner_relation_value">
+        <item>bố</item>
+        <item>mẹ</item>
+        <item>ông nội</item>
+        <item>bà nội</item>
+        <item>ông ngoại</item>
+        <item>bà ngoại</item>
+    </string-array>
+    <string-array name="relation_with_me_value">
+        <item>bản thân tôi</item>
+        <item>trẻ trâu</item>
+        <item>gia đình</item>
+        <item>dồng nghiệp</item>
+        <item>bạn học </item>
+        <item>bạn</item>
+        <item>không biết</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Tôi</item>

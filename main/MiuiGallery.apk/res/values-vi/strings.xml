@@ -123,10 +123,6 @@
     <string name="baby_album_sharers_page_title">Chia sẻ với gia đình</string>
     <string name="baby_birthday">Sinh nhật</string>
     <string name="baby_face_desc">Album baby</string>
-    <string name="baby_lock_wallpaper">Hình nền màn hình khóa</string>
-    <string name="baby_lock_wallpaper_cancelled">Đã chuyển sang hình nền Màn hình khóa mặc định</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">Áp dụng cài đặt hiện tại?</string>
-    <string name="baby_lock_wallpaper_title">Sử dụng ảnh baby để làm hình nền Màn hình khóa</string>
     <string name="baby_name_cannot_empty">Nhập tên</string>
     <string name="baby_name_cannot_start_with">Tên không thể bắt đầu với \"%s\"</string>
     <string name="baby_name_contain_invalidate_char">Tên không thể chứa \"%s\"</string>
@@ -154,7 +150,7 @@
     <string name="backup_dirty_num">Tổng: %s</string>
     <string name="backup_dirty_tip">Chưa sao lưu ảnh và video</string>
     <string name="backup_immediately">Sao lưu</string>
-    <string name="backup_need_sync_desc">Chạm để tiếp tục sao lưu</string>
+    <string name="backup_need_sync_desc">Nhấn để tiếp tục sao lưu</string>
     <string name="backup_need_sync_title">Đã dừng sao lưu</string>
     <string name="backup_no_network_btn_text">Cài đặt</string>
     <string name="backup_no_network_desc">Kết nối mạng để sao lưu</string>
@@ -196,7 +192,6 @@
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Album máy ảnh cần được sao lưu</string>
     <string name="cancel">Hủy</string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">Chuyển sang hình nền Màn hình khóa mặc định?</string>
     <string name="cancel_download_btn_text">Dừng</string>
     <string name="cancel_hint">Thao tác bị hủy bỏ</string>
     <string name="cannot_remove_creator">Không thể xóa người tạo</string>
@@ -233,8 +228,8 @@
     <string name="cleaner_space_description">có thể giải phóng</string>
     <string name="cleaner_space_detail_description">Xóa ảnh trong Thư viện để giải phóng dung lượng</string>
     <string name="cleaner_stop_scan">Dừng quét</string>
-    <string name="click_download_gif">Chạm để tải GIF xuống</string>
-    <string name="click_top_right">Chạm biểu tượng này</string>
+    <string name="click_download_gif">Nhấn để tải GIF xuống</string>
+    <string name="click_top_right">Nhấn biểu tượng này</string>
     <string name="close">Đóng</string>
     <string name="close_dialog_desc">Đóng hộp thoại</string>
     <string name="cloud_camera_display_name">Ảnh chụp</string>
@@ -317,7 +312,7 @@
     <string name="custom_select_title_quickly_share">Chia sẻ</string>
     <string name="custom_select_title_select_all">Chọn tất cả</string>
     <string name="custom_select_title_select_item">Chọn mục</string>
-    <string name="debugging_info">Thông tin gỡ lỗi đã được tạo thành công. Chạm OK để mở thư mục.</string>
+    <string name="debugging_info">Thông tin gỡ lỗi đã được tạo thành công. Nhấn OK để mở thư mục.</string>
     <string name="debugging_tip">Đang tạo dữ liệu gỡ lỗi</string>
     <string name="default_relation_name">Nhóm mới</string>
     <string name="define_by_user">Tùy chỉnh</string>
@@ -346,8 +341,13 @@
     <string name="detail_title">Thông tin chi tiết</string>
     <string name="disable_auto_upload_tip">Tắt đồng bộ với Mi Cloud album này?</string>
     <string name="disable_auto_upload_title">Tắt đồng bộ với Mi Cloud</string>
+	 <string name="document_provider_guide_step_1">1. Nhấn \"More\" button.</string>
+  <string name="document_provider_guide_step_2">2. Nhấn \"Hiện thị bộ nhớ trong\".</string>
+  <string name="document_provider_guide_step_3">3. Nhấn vào nút trình đơn bên.</string>
+  <string name="document_provider_guide_step_4">4. Lựa chọn \"SD card\".</string>
+  <string name="document_provider_guide_step_5">5. Nhấn \"Lựa chọn\".</string>
     <string name="do_not_remind_me">Không hiển thị lại</string>
-    <string name="double_tap_to_higher_definition">Chạm đúp lại để vào xem trước HD</string>
+    <string name="double_tap_to_higher_definition">Nhấn đúp lại để vào xem trước HD</string>
     <string name="download_canceled">Đã hủy tải xuống</string>
     <string name="download_error_format">Không thể tải xuống %s</string>
     <string name="download_error_tip">. Tải xuống đã bị gián đoạn.</string>
@@ -450,6 +450,18 @@
     <string name="exit_video_play">Thoát</string>
     <string name="expand_desc">Thêm</string>
     <string name="expand_people">Hiển thị thêm nhiều người</string>
+	<string name="ext_sdcard_first_entrance_request_failed_text">Gallery will save items to internal storage instead. You can change this in Settings &gt; Storage &gt; Storage settings.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">"Không được cấp quyền."</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Tiếp</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Cấp quyền</string>
+  <string name="ext_sdcard_guide_text">"Gallery cần cấp quyền SD card. ở đây bạn làm gì:"</string>
+  <string name="ext_sdcard_operation_failed_text">Gallery cần cấp quyền SD Card.</string>
+  <string name="ext_sdcard_operation_failed_title">"Không thể hoàn thành hành động này"</string>
+  <string name="ext_sdcard_permission_request_button_text">Got it</string>
+  <string name="ext_sdcard_permission_request_reason">Gallery cần cấp quyền SD card. Nó sẽ cấp bạn quyền xóa,chỉnh sửa and videos đó được xuất ra SD card.</string>
+  <string name="ext_sdcard_permission_request_title">Xét quyền địa chỉ SD Card</string>
+  <string name="ext_sdcard_request_failed_button_text">OK</string>
+  <string name="ext_sdcard_request_succeed_toast_text">"You're ready to rock!"</string>
     <string name="face_album_empty">"Không đủ ảnh để nhận dạng.
 Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="face_album_empty_syncing">Đang đồng bộ dữ liệu, vui lòng thử lại sau</string>
@@ -550,7 +562,7 @@ khả dụng"</string>
     <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Thư viện cần truy cập vào 
 %s
- để hoạt động bình thường, chạm \"Đặt\" để truy cập Quyền."</string>
+ để hoạt động bình thường, Nhấn \"Đặt\" để truy cập Quyền."</string>
     <string name="grant_permission_title">Cho phép truy cập</string>
     <string name="grant_permission_unlock_and_set">Mở khóa và đặt</string>
     <string name="has_invalid_recipient">Người nhận không hợp lệ: %1$s&amp;gt</string>
@@ -574,7 +586,7 @@ khả dụng"</string>
     <string name="hybrid_service_unavailiable">Dịch vụ hiện không khả dụng</string>
     <string name="hybrid_try_again">Vui lòng thử lại</string>
     <string name="ignore_album">Không hiện</string>
-    <string name="ignore_alert_title">Không hiển thị album này? Chạm góc phải bên trên để xem ảnh mà bạn bỏ qua.</string>
+    <string name="ignore_alert_title">Không hiển thị album này? Nhấn góc phải bên trên để xem ảnh mà bạn bỏ qua.</string>
     <string name="ignore_face">Bỏ qua người này</string>
     <string name="ignore_faces_title">Đã bỏ qua</string>
     <string name="image_decode_failed">Không thể giải mã ảnh</string>
@@ -611,7 +623,7 @@ khả dụng"</string>
     <string name="limit_height">Chiều cao phải > 0</string>
     <string name="limit_width">Chiều rộng phải > 0</string>
     <string name="load_complete">Không còn mục nào nữa</string>
-    <string name="load_failed">Tải thông tin thất bại, chạm để thử lại</string>
+    <string name="load_failed">Tải thông tin thất bại, Nhấn để thử lại</string>
     <string name="load_relations">Vui lòng chờ…</string>
     <string name="loading">Vui lòng chờ</string>
     <string name="loading_dots">Vui lòng chờ…</string>
@@ -894,7 +906,7 @@ khả dụng"</string>
     <string name="projection_slide_playing">Trình chiếu đang được phát trên %s</string>
     <string name="projection_stop">Dừng chiếu</string>
     <string name="projection_switch_title">Chuyển tới</string>
-    <string name="projection_video_quit">Chạm để thoát</string>
+    <string name="projection_video_quit">Nhấn để thoát</string>
     <string name="public_url_descript">Bất cứ ai cũng có thể truy cập album của bạn bằng URL này</string>
     <string name="publish_failed">Công khai thất bại</string>
     <string name="publish_succeeded">Album đã được công khai</string>
@@ -956,10 +968,10 @@ khả dụng"</string>
     <string name="search_backup_title">Đồng bộ với Mi Cloud</string>
     <string name="search_clear_histories">Dọn dẹp</string>
     <string name="search_connection_error">Không thể kết nối mạng</string>
-    <string name="search_connection_error_and_set">Chạm để kiểm tra cài đặt mạng</string>
+    <string name="search_connection_error_and_set">Nhấn để kiểm tra cài đặt mạng</string>
     <string name="search_empty_title">Tìm thấy ảnh cùng người, địa điểm và đối tượng cụ thể trong Thư viện của bạn</string>
     <string name="search_error">Xảy ra lỗi</string>
-    <string name="search_error_and_retry">Xảy ra lỗi, chạm để thử lại</string>
+    <string name="search_error_and_retry">Xảy ra lỗi, Nhấn để thử lại</string>
     <string name="search_failed_mark_feedback_false_negative">Không thể thêm</string>
     <string name="search_failed_mark_feedback_false_positive">Không thể xóa</string>
     <string name="search_feedback_contribute">Thêm ảnh vào cơ sở dữ liệu thuật toán Al</string>
@@ -975,7 +987,7 @@ khả dụng"</string>
     <string name="search_feedback_task_requesting_award">Đang nhận phần thưởng​…</string>
     <string name="search_feedback_user_notice">Tôi đã đọc và đồng ý với %s.</string>
     <string name="search_feedback_user_policy">Chính sách Riêng tư Thuật toán AI Thư viện MIUI</string>
-    <string name="search_hint">Chạm để tìm kiếm</string>
+    <string name="search_hint">Nhấn để tìm kiếm</string>
     <string name="search_image_result_title">Kết quả tìm kiếm</string>
     <string name="search_login_now">Đăng nhập</string>
     <string name="search_login_sub_title">Đăng nhập để tìm thêm ảnh</string>
@@ -1034,7 +1046,6 @@ khả dụng"</string>
     <string name="send_secret_file_failed">Không thể chia sẻ</string>
     <string name="send_secret_file_space_low">Không đủ dung lượng lưu trữ</string>
     <string name="send_too_many_files_error">Không thể gửi %d mục cùng một lúc</string>
-    <string name="set_as_baby_lock_wallpaper">Đặt làm hình nền Màn hình khóa</string>
     <string name="set_as_wallpaper_description">Ảnh này là dạng ảnh thu nhỏ, tải xuống ảnh gốc?</string>
     <string name="set_as_wallpaper_title">Đặt làm hình nền</string>
     <string name="set_face_group_toast_msg_new_user">Bấm giữ khuôn mặt để hợp nhất hoặc bỏ qua.</string>

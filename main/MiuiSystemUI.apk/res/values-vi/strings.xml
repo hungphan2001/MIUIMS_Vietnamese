@@ -530,7 +530,8 @@ Nếu bạn muốn tiếp tục, bạn có thể cần phải trả phí sử d�
     <string name="dock_forced_resizable">Ứng dụng không làm việc trong chế độ chia màn hình.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">Chia màn hình không hỗ trợ trên Màn hình khóa.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Ứng dụng không hỗ trợ Chia màn hình.</string>
-    <string name="drag_to_add_tiles">Kéo để thêm ô</string>
+    <string name="download_lock_wallpaper">Nhấn để tải nhạc</string>
+	<string name="drag_to_add_tiles">Kéo để thêm ô</string>
     <string name="drag_to_remove_tiles">Kéo đây để xóa</string>
     <string name="drive_mode_tip">Chế độ lái xe bật</string>
     <string name="drive_mode_tip_idle">Chế độ lái xe bật</string>

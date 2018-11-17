@@ -884,9 +884,6 @@ Tỷ lệ mẫu"</string>
     <string name="bootloader_status_privacy_dialog_url_text">Chính sách Riêng tư</string>
     <string name="bootloader_status_privacy_dialog_yes">Đồng ý</string>
     <string name="bootloader_status_summary">Kiểm tra thiết bị bị khóa hay không</string>
-    <string name="bootloader_status_unlocked">Đã mở khóa</string>
-    <string name="bootloader_status_unlocked_info">Thiết bị này đã mở khóa</string>
-    <string name="bootloader_summary">Flash thiết bị của bạn qua USB</string>
     <string name="breathing_light_color_menu_title">Màu đèn</string>
     <string name="breathing_light_color_summary">Màu đèn khi nhận thông báo mới</string>
     <string name="breathing_light_freq_summary">Nhấp nháy khi bạn có thông báo mới</string>
@@ -2074,6 +2071,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="input_methods_and_subtype_enabler_title">Chọn ph.thức nhập đang hoạt động</string>
     <string name="input_methods_settings_label_format">Cài đặt %1$s</string>
     <string name="input_methods_settings_title">Nhập văn bản</string>
+	<string name="input_pattern_hint_text">Vẽ hình mở khóa của bạn</string>
     <string name="input_settings">Cài đặt nhập liệu</string>
     <string name="install_all_warning">Điện thoại và dữ liệu cá nhân của bạn dễ bị các ứng dụng không xác định tấn công hơn. Bằng cách cài đặt ứng dụng từ nguồn này, bạn đồng ý tự chịu trách nhiệm cho mọi hỏng hóc đối với điện thoại của mình hoặc mất mát dữ liệu có thể phát sinh do sử dụng những ứng dụng này.</string>
     <string name="install_applications">Không rõ nguồn gốc</string>
