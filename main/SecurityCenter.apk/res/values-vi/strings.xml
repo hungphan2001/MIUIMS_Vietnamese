@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="deep_power_save_item_summary_auto_brightness">Độ sáng màn hình tự động để tiết kiệm pin</string>
+  <string name="deep_power_save_item_summary_bluetooth">Tắt Bluetooth để tiết kiệm PIN </string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Để màn hình ở chế độ ngủ sau 30 giây</string>
+  <string name="deep_power_save_item_title_auto_brightness">Tắt tự động độ sáng</string>
+  <string name="deep_power_save_item_title_bluetooth">Tắt Bluetooth </string>
+  <string name="deep_power_save_item_title_lock_screen_time">Để màn hình ở chế độ ngủ</string>
     <string name="exo_controls_fastforward_description">Tua đi</string>
     <string name="exo_controls_fullscreen_description">Chế độ toàn màn hình</string>
     <string name="exo_controls_next_description">Bản nhạc tiếp theo</string>
